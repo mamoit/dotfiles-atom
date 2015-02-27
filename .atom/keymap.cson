@@ -1,0 +1,2 @@
+'atom-text-editor':
+  'alt-L': 'editor:split-selections-into-lines'
